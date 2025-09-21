@@ -52,7 +52,7 @@ Respond in this strict JSON  structure:
     },
     {
       headers: {
-        Authorization: `Bearer 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`,
+        Authorization: `Bearer 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`,
         "Content-Type": "application/json",
       },
     }
@@ -122,3 +122,4 @@ app.post(
 app.listen(5000, () =>
   console.log("🚀 Server running on http://localhost:5000")
 );
+
